@@ -8,6 +8,7 @@ EXISTING PROBLEM:
 Due to the increased price of new vehicles and the incapability of customers to buy new vehicles due to the lack of funds, used vehicle sales are on a global increase. There is a need for a used vehicle price prediction system to effectively determine the worthiness of the vehicle using a variety of features. Though there are websites that offers this service, their prediction method may not be the best. It is important to know vehicle’s  actual market value while both buying and selling.
 
 The project is divided into 4 parts:
+
 1.Data Analysis
 2.Building Machine learning models
 3.Creating front end web application for project
