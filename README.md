@@ -16,8 +16,9 @@ The project is divided into 4 parts:
 
 RESULT:
 Since we have to predict the price of a vehicle which is a continuous value, we have used regression technique to solve this problem. We have applied various regression algorithms as follows:
-ALGORITHM                     ACCURACY
-Multi Linear Regression       71.3%
-Decision tree Regression      80.1%
-Random forest Regression      86.8%
 
+|Algorithm                |Accuracy             |Accuracy in %
+|-------------------------|---------------------|--------------
+|Multi Linear Regression  | 0.7132389211953192  | 71.3%
+|Decision Tree Regressor  | 0.8011791920592324  | 80.1%
+|Random Forest Regressor  | 0.8681639422469312  | 86.8%
