@@ -22,3 +22,7 @@ Since we have to predict the price of a vehicle which is a continuous value, we 
 |Multi Linear Regression  | 0.7132389211953192  | 71.3%
 |Decision Tree Regressor  | 0.8011791920592324  | 80.1%
 |Random Forest Regressor  | 0.8681639422469312  | 86.8%
+
+
+CONCLUSION:
+The main aim of this project is to build an accurate machine learning model which predicts the price of a used vehicle based on its features. The model is built using regression models. Out of all the three regression models used, we can conclude that Random Forest Regressor gives greater accuracy 
